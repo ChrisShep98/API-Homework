@@ -1,0 +1,162 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+section{
+  float: right;
+  width: 0px;
+}
+
+ .hidden{
+  display: none; 
+} 
+
+
+/* Character images  */
+
+#eleven{
+  height: 30rem;
+  margin: 10rem 0 0 -42rem;
+} 
+
+#jim-hopper{
+  height: 27rem;
+  margin: 11rem 0 0 -29rem;
+} 
+
+#dustin-henderson{
+  height: 30rem;
+  margin: 7rem 0 0 -33rem;
+}
+
+#erica-sinclair{
+  margin: 7rem 0 0 -32rem
+}
+
+#jonathan-byers{
+  height: 30rem;
+  margin: 8rem 0 0 -39rem;
+}
+
+#keith{
+  height: 20rem;
+  margin: 12rem 0 0 -31rem;
+}
+
+#lucas-sinclair{
+  margin: 12rem 0 0 -38rem;
+}
+
+#max-mayfield{
+  height: 35rem;
+  margin: 3rem 0 0 -40rem
+}
+
+#mike-wheeler{
+  height: 27rem;
+  margin: 9rem 0 0 -44rem;
+}
+
+#mr-clarke{
+ height: 25rem;
+ margin: 12rem 0 0 -32rem;
+}
+
+#nancy-wheeler{
+  height: 23rem;
+  margin: 10rem 0 0 -30rem;
+}
+
+#robin-buckley{
+  height: 30rem;
+  margin: 2rem 0 0 -40rem;
+}
+
+#steve-harrington{
+  height: 30rem;
+  margin: 8rem 0 0 -33rem;
+}
+
+#joyce-byers{
+  height: 30rem;
+  margin: 2rem 0 0 -35rem;
+}
+
+#sam-owens{
+  height: 30rem;
+  margin: 9rem 0 0 -37rem;
+}
+
+#will-byers{
+  height: 25rem;
+  margin: 7rem 0 0 -42rem;
+}
+
+#kali-prasad{
+  height: 25rem;
+  width: 25rem;
+  margin: 10rem 0 0 -41rem;
+}
+#murray-bauman{
+  height: 30rem;
+  margin: 10rem 0 0 -38rem;
+}
+
+#billy-hargrove{
+  height: 30rem;
+  margin: 10rem 0 0 -40rem;
+}
+
+#florance{
+  height: 15rem;
+  
+  margin: 14rem 0 0 -41rem;
+  
+}
+
+
+/* Other  */
+h1{
+  text-align: center;
+}
+
+div{
+  text-align: center;
+}
+
+button{
+  padding: 1%;
+
+}
+
+.blockmin{
+  float: right;
+  margin: 0 12rem 0 -15rem;
+}
+
+h2{
+position: absolute;
+margin: 5rem 0 0 7rem;
+max-width: 17rem;
+font-size: 20px;
+}
+
+.bubble{
+  height: 350px;
+  margin: 0 30px 0 0;
+}
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
